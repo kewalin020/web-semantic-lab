@@ -59,4 +59,4 @@
         2. git merge feature/contact
     3. push ขึ้น GitHub เพื่ออัพโหลดการเปลี่ยนแปลงจาก branch development ในเครื่องของเราไปยัง remote repository
         1. git push origin development
-    4. สร้าง Pull Request เข้า main branch บน GitHub ดําเนินการให้เสร็จสิ้น
+    4. สร้าง Pull Request เข้า main branch บน GitHub ดําเนินการให้เสร็จสิ้น 
